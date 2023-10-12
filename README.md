@@ -1,10 +1,10 @@
 # Apical WordPress Theme
 
-## Introduction
+## Description
 
-apical est un thème WordPress inspiré du site « apical ». Il a été créé dans le but d’un projet d’examen et est conçu pour reproduire l’apparence du site Web original. Ce fichier README vous fournira un aperçu du thème et vous guidera sur la façon de l'ajouter à votre site WordPress.
+Apical est un thème WordPress inspiré du site « apical ». Il a été créé dans le but d’un projet d’examen et est conçu pour reproduire l’apparence du site Web original. Ce fichier README vous fournira un aperçu du thème et vous guidera sur la façon de l'ajouter à votre site WordPress.
 
-## Features
+## Caractéristiques
 
 - Design épuré et minimaliste.
 - Disposition réactive pour différentes tailles d'écran.
@@ -37,7 +37,7 @@ Pour ajouter le thème WordPress apical à votre site Web, suivez ces étapes :
 
 ## Support
 
-Si vous rencontrez des problèmes ou avez des questions, vous pouvez contacter notre équipe d'assistance à [support@yourwebsite.com](mailto:2240246@etudiant.cegepvicto.ca).
+Si vous rencontrez des problèmes ou avez des questions, vous pouvez me contacter à [2240246@etudiant.cegepvicto.ca].
 
 ## Credits
 
